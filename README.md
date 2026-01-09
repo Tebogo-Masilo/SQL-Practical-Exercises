@@ -6,7 +6,7 @@
   - Answer all the questions with results of queries for each question.
 
   **Processes**
-  - Creates a Datawarehouse account on SNOWFLAKE.
+  - Created a Data Warehouse account on SNOWFLAKE.
   - Created a Database to load my dataset onto.
   - Created a Schema within the Database.
   - Created a table to upload my .csv file.
@@ -49,13 +49,35 @@
   - Answered all the questions with queries for each question.
 
  **Processes**
-  - Created a Datawarehouse account on Databricks.
+  - Created a Data Warehouse account on Databricks.
   - Created a Database to load my dataset onto.
   - Created a Schema within the Database.
   - Created a table to upload my .csv file.
+  - Provided screenshots of the query results.
 
  **Tools Used**
   - Databricks
+  - SQL 
+  - MS WORD
+
+    
+## Practical 4 : Introduction to SQL Server
+
+  **Objectives**
+
+  - To build knowledge in using SQL and using SQL Server.
+  - Use ketro_sa_soccer_dataset.
+  - Answered all the questions with queries for each question.
+
+ **Processes**
+  - Downloaded and installed SSMS(SQL Server  Management Studio).
+  - Connected to the Local Server.
+  - Created a New Database to load the dataset.
+  - Dataset was Uploaded as a FlatFile on SSMS Studio.
+  
+
+ **Tools Used**
+  - SQL Server Management Studio (SSMS)
   - SQL 
   - MS WORD
 
