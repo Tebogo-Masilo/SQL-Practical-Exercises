@@ -78,7 +78,28 @@
 
  **Tools Used**
   - SQL Server Management Studio (SSMS)
-  - SQL 
+  - SQL
+  - MS WORD
+
+    ## Practical 5 : Introduction to Google BigQuery
+
+  **Objectives**
+
+  - To build knowledge in using SQL and Google BigQuery.
+  - Use retail_sales_dataset .
+  - Answered all the questions with queries for each question.
+
+ **Processes**
+  - Created a Google BigQuery Account.
+  - Created a New Project to load the dataset.
+  - Created a Dataset to store our data.
+  - Created a Table and Uploaded the dataset.
+  - Run SQL queries to answer questions.
+  
+
+ **Tools Used**
+  - Google BigQuery
+  - SQL
   - MS WORD
 
   
